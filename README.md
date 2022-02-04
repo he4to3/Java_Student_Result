@@ -5,3 +5,4 @@
 ## **Short description**
 My first program using JavaFX.
 Records the results of students, identifies the average score and ranking him.
+![Example.jpg](https://postimg.cc/XryKqPPx)
